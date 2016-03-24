@@ -1,0 +1,15 @@
+{
+	"name"        : "readable-password",
+	"version"     : "0.1.0",
+	"description" : "small tool to generate a user friendly password",
+	"main"        : "index.js",
+	"keywords"    : [
+		"password-generator",
+		"password",
+		"generator"
+	],
+	"author"      : {
+		"name" : "Benjamin Isberner"
+	},
+	"license"     : "UNLICENSE"
+}
