@@ -1,12 +1,11 @@
 {
   "name": "readable-password",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "small tool to generate a user friendly password",
   "main": "index.js",
-  	"publishConfig" : {
-		"registry" : "https://registry.npmjs.org"
-	},
-	
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "keywords": [
     "password-generator",
     "password",
