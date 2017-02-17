@@ -1,19 +1,15 @@
 {
-	"name"        : "readable-password",
-	"version"     : "0.1.1",
-	"description" : "small tool to generate a user friendly password",
-	"main"        : "index.js",
-	"keywords"    : [
-		"password-generator",
-		"password",
-		"generator"
-	],
-	"repository"  : {
-		"type" : "git",
-		"url"  : "https://github.com/trexpert/readable-password.git"
-	},
-	"author"      : {
-		"name" : "Benjamin Isberner"
-	},
-	"license"     : "UNLICENSE"
+  "name": "readable-password",
+  "version": "0.1.1",
+  "description": "small tool to generate a user friendly password",
+  "main": "index.js",
+  "keywords": [
+    "password-generator",
+    "password",
+    "generator"
+  ],
+  "author": {
+    "name": "Benjamin Isberner"
+  },
+  "license": "UNLICENSE"
 }
