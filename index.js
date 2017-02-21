@@ -23,7 +23,7 @@ exports.randomString = function ( len, numLen ) {
 	var c    = true;
 	var pass = "";
 
-	for ( var i = 0; i <= len - numLen; ++i ) {
+	for ( var i = 0; i < len - numLen; ++i ) {
 		if ( c ) {
 			pass += pickRandom( validCon );
 		} else {
