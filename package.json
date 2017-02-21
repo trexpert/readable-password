@@ -1,6 +1,6 @@
 {
   "name": "readable-password",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "small tool to generate a user friendly password",
   "main": "index.js",
   "publishConfig": {
